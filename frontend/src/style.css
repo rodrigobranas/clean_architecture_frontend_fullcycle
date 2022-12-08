@@ -1,0 +1,23 @@
+body {
+    background-color: #252526;
+    color: #FFF;
+    font-family: Verdana;
+}
+
+button {
+    background-color: #1e1e1e;
+    border: 0;
+    color: #FFF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+}
+
+input {
+    background-color: #1e1e1e;
+    border: 0;
+    color: #FFF;
+    padding: 5px;
+    margin: 5px;
